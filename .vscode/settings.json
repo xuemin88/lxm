@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "D:\\Python37\\python.exe",
+    "git.path":"D:\\Program Files\\Git\\bin\\git.exe",
+    "terminal.integrated.shell.windows": "D:\\Program Files\\Git\\bin\\bash.exe",
+    "python.linting.flake8Enabled": true,
+    // "python.linting.enabled":true,
+    "python.linting.prospectorEnabled": false,
+    "python.formatting.provider": "yapf"
+}
